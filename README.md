@@ -259,7 +259,7 @@ const terezDev = {
 <a href="https://github.com/terezdev">
   <img src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" width="70" height="70" />
 </a>
-<a href="https://t.me/terezdev">
+<a href="https://t.me/terezDev">
   <img src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" width="70" height="70" />
 </a>
 <a href="https://linkedin.com/in/terezdev">
@@ -346,5 +346,5 @@ const terezDev = {
 <div align="center">
   <br>
   <p>Made with ❤️ and ☕ by TerezDev</p>
-  <img src="https://img.shields.io/badge/Powered%20by-GitHub%20Profile%20README%20Generator-FF6B6B?style=flat-square" />
+  <img src="https://img.shields.io/badge/Powered%20by-GitHub%20Profile%20README%20-FF6B6B?style=flat-square" />
 </div>
